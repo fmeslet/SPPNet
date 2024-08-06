@@ -7,8 +7,7 @@ Presentation
 
 SPPNet (ServerName Protocol Packet Network) is the Deep Learning architecture used 
 to classify encrypted network traffic. The model works in packet level and classify 
-packet in real time. This work is being published in IEEE GLOBECOM 2021 : 
-`link: <https://ieeexplore.ieee.org/document/9686037>`_
+packet in real time. This work is being published in IEEE GLOBECOM 2021 <https://ieeexplore.ieee.org/document/9686037>.
 
 Usage
 -----
